@@ -1,2 +1,3 @@
-# workflows
-A collection of CI scripts I commonly use
+# CI Workflows
+
+This repository contains various CI scripts I commonly use for various languages
